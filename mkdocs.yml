@@ -1,5 +1,5 @@
 # Project information
-site_name: FSDS_NLP_template
+site_name: FSDS_NLP_NER_Project
 
 #define TOC or order of website
 nav:
@@ -12,8 +12,8 @@ site_description: >-
   Steps to a NLP project
   
 # Repository
-repo_name: mohammadusama2/DVC-NLP-project-docs-template
-repo_url: https://github.com/mohammadusama2/
+repo_name: mohammadusama2/FSDS_NLP_NER_Project
+repo_url: https://github.com/mohammadusama2/FSDS_NLP_NER_Project
 
 # Configuration
 theme:
